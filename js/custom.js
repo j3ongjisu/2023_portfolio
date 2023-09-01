@@ -1,7 +1,7 @@
 $(function () {
 
     $('.main_content').fullpage({
-        anchors: ['main', 'sub01', 'sub02', 'sub03', 'sub04', 'sub05', 'sub06', 'footer'],
+        anchors: ['main', 'sub01', 'sub02', 'sub03', 'sub04', 'sub05', 'sub06', 'sub07'],
         navigation: false,
         css3: false,
         //반응형에서 fullpage 안하기.
