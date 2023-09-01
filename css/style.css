@@ -301,6 +301,7 @@
 .sub01 .title .txt .button {
     display: flex;
     gap: 10px;
+    margin: 0 0 0 40px;
 }
 
 .sub01 .title .txt .button a {
@@ -940,6 +941,7 @@
 
 .sub05 .title .txt .button {
     display: flex;
+    margin: 0 0 0 97px;
     gap: 10px;
 }
 
